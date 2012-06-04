@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Un_card_sActivity!</string>
+    <string name="app_name">Un_card_s</string>
+    <string name="TextView">0</string>
+
+</resources>
